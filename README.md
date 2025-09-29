@@ -1,2 +1,1 @@
-# fly-io
-Fly.io Conf
+# fly-io Conf
